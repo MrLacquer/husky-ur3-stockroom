@@ -31,9 +31,9 @@ $ sudo apt-get install ros-indigo-ar-track-alvar
 ```
 
 - For stockroom gazebo world.  
-[stockroom world](https://github.com/Jpub/ROS/tree/master/stockroom_bot.git)
+[stockroom world](https://github.com/Jpub/ROS/tree/master/stockroom_bot)
 ```
-$ cd ~/Downloads && git clone https://github.com/Jpub/ROS/tree/master/stockroom_bot.git
+$ cd ~/Downloads && git clone https://github.com/Jpub/ROS.git
 $ cd ROS
 $ cp -r stockroom_bot ~/catkin_ws/src
 
