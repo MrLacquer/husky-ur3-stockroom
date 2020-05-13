@@ -27,7 +27,7 @@ Therefore, please do it after intallation of the huksy_ur3_manipulator.
 - For subscribe ar markers,
 [ar_track_alvar](http://wiki.ros.org/ar_track_alvar)
 ```
-$ sudo apt-get install ros-indigo-ar-track-alvar
+$ sudo apt-get install ros-melodic-ar-track-alvar
 ```
 
 - For stockroom gazebo world.  
@@ -52,7 +52,7 @@ $ cd ~/catkin_ws && catkin_make
 $ rospack profile && rosstack profile
 
 - Bring up Gazebo and the Husky UR3 manipulator, 
-$ roslaunch husky_ur3_gazebo husky_ur3_stookroom.launch 
+$ roslaunch husky_ur3_stockroom husky_ur3_stookroom.launch 
 
 
 - Bring Up MoveIt & RViz
