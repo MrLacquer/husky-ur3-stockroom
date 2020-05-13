@@ -38,7 +38,7 @@ $ cd ROS
 $ cp -r stockroom_bot ~/catkin_ws/src
 
 $ gedit ~/.bashrc
-   export GAZEBO_MODEL_PATH=${HOME}/ catkin_ws/src/stockroom_bot/models
+   export GAZEBO_MODEL_PATH=${HOME}/catkin_ws/src/stockroom_bot/models
 
 $ cd ~/catkin_ws && catkin_make
 $ rospack profile && rosstack profile
