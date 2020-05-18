@@ -1,4 +1,4 @@
-# Husky - UR3 manipulator
+# Husky - UR3 manipulator with AR marker Stockroom
  
 ## Overview
 The Husky UR3 mobile manipulation tutorial will show you how to operate a mobile manipulation robot using Gazebo, RViz, MoveIt, and the UR3 arm. 
